@@ -20,5 +20,7 @@ Este sistema permite o cadastro de candidatos, registro de votos e visualizaçã
 ### Documentação
 
  **Desenvolvido por**: Álvaro Duda
+ 
  **Data de Criação**: 14/10/2024
+ 
  **Para**: Leopoldo França
